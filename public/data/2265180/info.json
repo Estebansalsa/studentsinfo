@@ -1,0 +1,9 @@
+{
+    "nombre": "Esteban Rivera Gonzalez",
+    "edad": 19,
+    "carrera": "Medicina",
+    "semestre": 3,
+    "gustos": ["montañas", "Cine", "Correr", "gym"],
+    "noGustos": ["Despertarse temprano", "alcohol", "Ruido fuerte", "Tareas largas"]
+    
+}
